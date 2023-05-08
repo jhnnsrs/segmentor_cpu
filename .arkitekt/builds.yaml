@@ -1,0 +1,32 @@
+builds:
+- build_id: 86d57e81-f17f-4d17-b91d-f237f053da02
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: segmentor_cpu
+    requirements: []
+    scopes:
+    - read
+    version: 0.0.1
+- build_id: f24399fd-6743-440a-a4c3-9de3132f08b3
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: segmentor_cpu
+    requirements: []
+    scopes:
+    - read
+    version: 0.0.1
+latest_build:
+  build_id: f24399fd-6743-440a-a4c3-9de3132f08b3
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: segmentor_cpu
+    requirements: []
+    scopes:
+    - read
+    version: 0.0.1

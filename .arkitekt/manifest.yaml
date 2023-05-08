@@ -1,0 +1,7 @@
+author: jhnnsrs
+entrypoint: app
+identifier: segmentor_cpu
+requirements: []
+scopes:
+- read
+version: 0.0.1
