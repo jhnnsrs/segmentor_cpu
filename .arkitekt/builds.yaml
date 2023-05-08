@@ -19,8 +19,7 @@ builds:
     scopes:
     - read
     version: 0.0.1
-latest_build:
-  build_id: f24399fd-6743-440a-a4c3-9de3132f08b3
+- build_id: 8ba4c910-3425-45fc-8e17-52982e543387
   builder: port
   manifest:
     author: jhnnsrs
@@ -29,4 +28,15 @@ latest_build:
     requirements: []
     scopes:
     - read
-    version: 0.0.1
+    version: 0.0.2
+latest_build:
+  build_id: 8ba4c910-3425-45fc-8e17-52982e543387
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: segmentor_cpu
+    requirements: []
+    scopes:
+    - read
+    version: 0.0.2
